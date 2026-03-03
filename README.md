@@ -4,9 +4,12 @@
 
 
 # 💫 About Me:
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh2MWZncWp2eXJxMDkxaHo3M3V0aThqOGhtdGM1aWxrZ2MyMmM0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" alt="GIF"  width="40" height="40"/>
+
+
 🔭I’m currently working on front-end web projects<br>👯I’m looking to collaborate on UI and web development projects.<br>🤔 I’m looking for help with advanced animations and performance.<br>💬Ask me about HTML, CSS, JavaScript, and front-end tools.<br>📫How to reach me: mdjobayer9800@gmail.com<br>😄Pronouns: He/Him<br>⚡ Fun fact: I love turning designs into code.<br>I'm a passionate Front-End Developer with a focus on building clean, responsive, and user-friendly websites. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React. I build clean, responsive, and high-performance websites with a strong focus on user experience and modern design standards.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh2MWZncWp2eXJxMDkxaHo3M3V0aThqOGhtdGM1aWxrZ2MyMmM0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" alt="GIF"/>
 
 
 ## 🌐 Socials:
